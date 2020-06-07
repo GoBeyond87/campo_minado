@@ -1,12 +1,14 @@
 # Jogo do Campo-Minado utilizando react Native e Xcode
 
-### Instalação
+### Instalar
 ```
 yarn install
+```
 
-### Dar inicio
+### Instalação
 ```
 yarn start
+```
 
 ### Acessar via web com Expo
 ```
