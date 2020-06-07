@@ -1,4 +1,4 @@
-# Jogo do Campo-Minado utilizando react Native e Xcode
+# Jogo do Campo-Minado utilizando React Native
 
 ### Instalar
 ```
